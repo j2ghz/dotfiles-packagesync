@@ -1,3 +1,4 @@
 ([
 (source:Apt,name:"curl",),
+(source:Apt,name:"wget",),
 ])
