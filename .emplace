@@ -1,5 +1,6 @@
 ([
 (source:Pacman,name:"bandwhich",),
 (source:Apt,name:"curl",),
+(source:Pacman,name:"ripgrep",),
 (source:Apt,name:"wget",),
 ])
