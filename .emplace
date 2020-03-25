@@ -1,6 +1,7 @@
 ([
 (source:Pacman,name:"bandwhich",),
 (source:Apt,name:"curl",),
+(source:Cargo,name:"pijul",),
 (source:Pacman,name:"ripgrep",),
 (source:Pacman,name:"tldr",),
 (source:Apt,name:"wget",),
