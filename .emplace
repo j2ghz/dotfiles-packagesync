@@ -1,5 +1,6 @@
 ([
 (source:Pacman,name:"bandwhich",),
+(source:Cargo,name:"cargo-watch",),
 (source:Apt,name:"curl",),
 (source:Cargo,name:"pijul",),
 (source:Pacman,name:"ripgrep",),
