@@ -12,6 +12,7 @@
 (source:Pacman,name:"pkgfile",),
 (source:Cargo,name:"ripgrep",),
 (source:Pacman,name:"ripgrep",),
+(source:Cargo,name:"starship",),
 (source:Pacman,name:"tldr",),
 (source:Apt,name:"wget",),
 ])
