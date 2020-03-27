@@ -8,6 +8,7 @@
 (source:Pacman,name:"fish",),
 (source:Pacman,name:"htop",),
 (source:Pacman,name:"lsd",),
+(source:Pacman,name:"nano-syntax-highlighting",),
 (source:Pacman,name:"needed",),
 (source:Pacman,name:"openssh",),
 (source:Cargo,name:"pijul",),
