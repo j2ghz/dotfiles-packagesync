@@ -1,6 +1,7 @@
 ([
 (source:Pacman,name:"bandwhich",),
 (source:Pacman,name:"bat",),
+(source:Cargo,name:"cargo-update",),
 (source:Cargo,name:"cargo-watch",),
 (source:Apt,name:"curl",),
 (source:Pacman,name:"exa",),
