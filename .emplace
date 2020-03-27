@@ -2,6 +2,7 @@
 (source:Pacman,name:"bandwhich",),
 (source:Cargo,name:"cargo-watch",),
 (source:Apt,name:"curl",),
+(source:Pacman,name:"openssh",),
 (source:Cargo,name:"pijul",),
 (source:Cargo,name:"ripgrep",),
 (source:Pacman,name:"ripgrep",),
