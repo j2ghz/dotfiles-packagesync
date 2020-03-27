@@ -12,6 +12,7 @@
 (source:Pacman,name:"openssh",),
 (source:Cargo,name:"pijul",),
 (source:Pacman,name:"pkgfile",),
+(source:Pacman,name:"reflector",),
 (source:Cargo,name:"ripgrep",),
 (source:Pacman,name:"ripgrep",),
 (source:Cargo,name:"starship",),
