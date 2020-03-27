@@ -3,6 +3,7 @@
 (source:Cargo,name:"cargo-watch",),
 (source:Apt,name:"curl",),
 (source:Cargo,name:"pijul",),
+(source:Cargo,name:"ripgrep",),
 (source:Pacman,name:"ripgrep",),
 (source:Pacman,name:"tldr",),
 (source:Apt,name:"wget",),
