@@ -13,6 +13,7 @@
 (source:Pacman,name:"pkgfile",),
 (source:Pacman,name:"reflector",),
 (source:Pacman,name:"ripgrep",),
+(source:Pacman,name:"rustup",),
 (source:Pacman,name:"tldr",),
 (source:Apt,name:"wget",),
 ])
