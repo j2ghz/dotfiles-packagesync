@@ -6,6 +6,7 @@
 (source:Apt,name:"curl",),
 (source:Pacman,name:"exa",),
 (source:Pacman,name:"fish",),
+(source:Cargo,name:"flamegraph",),
 (source:Pacman,name:"htop",),
 (source:Pacman,name:"lsd",),
 (source:Pacman,name:"nano-syntax-highlighting",),
