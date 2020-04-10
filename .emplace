@@ -14,6 +14,7 @@
 (source:Pacman,name:"reflector",),
 (source:Pacman,name:"ripgrep",),
 (source:Pacman,name:"rustup",),
+(source:Pacman,name:"sniffglue",),
 (source:Rua,name:"teams",),
 (source:Pacman,name:"tldr",),
 (source:Apt,name:"wget",),
