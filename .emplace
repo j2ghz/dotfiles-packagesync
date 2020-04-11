@@ -5,6 +5,7 @@
 (source:Cargo,name:"cargo-watch",),
 (source:Cargo,name:"cross",),
 (source:Apt,name:"curl",),
+(source:Cargo,name:"emplace",),
 (source:Pacman,name:"exa",),
 (source:Pacman,name:"fish",),
 (source:Cargo,name:"flamegraph",),
