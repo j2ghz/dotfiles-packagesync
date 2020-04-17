@@ -16,6 +16,7 @@
 (source:Pacman,name:"nebula",),
 (source:Pacman,name:"openssh",),
 (source:Pacman,name:"pkgfile",),
+(source:Pacman,name:"python-pillow",),
 (source:Pacman,name:"reflector",),
 (source:Pacman,name:"ripgrep",),
 (source:Pacman,name:"rustup",),
