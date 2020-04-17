@@ -13,6 +13,7 @@
 (source:Pacman,name:"htop",),
 (source:Pacman,name:"lsd",),
 (source:Pacman,name:"nano-syntax-highlighting",),
+(source:Pacman,name:"nebula",),
 (source:Pacman,name:"openssh",),
 (source:Pacman,name:"pkgfile",),
 (source:Pacman,name:"reflector",),
