@@ -23,6 +23,8 @@
 (source:Pacman,name:"sniffglue",),
 (source:Rua,name:"teams",),
 (source:Pacman,name:"tldr",),
+(source:Pacman,name:"unzip",),
 (source:Apt,name:"wget",),
 (source:Pacman,name:"wget",),
+(source:Pacman,name:"zip",),
 ])
