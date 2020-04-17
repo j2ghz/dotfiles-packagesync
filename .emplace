@@ -23,4 +23,5 @@
 (source:Rua,name:"teams",),
 (source:Pacman,name:"tldr",),
 (source:Apt,name:"wget",),
+(source:Pacman,name:"wget",),
 ])
