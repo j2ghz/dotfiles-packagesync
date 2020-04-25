@@ -1,4 +1,5 @@
 ([
+(source:Cargo,name:"amethyst_tools",),
 (source:Pacman,name:"bandwhich",),
 (source:Pacman,name:"bat",),
 (source:Cargo,name:"cargo-deps",),
