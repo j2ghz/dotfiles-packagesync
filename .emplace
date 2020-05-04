@@ -10,6 +10,7 @@
 (source:Pacman,name:"dotnet-sdk",),
 (source:Cargo,name:"emplace",),
 (source:Pacman,name:"exa",),
+(source:Pacman,name:"fd",),
 (source:Pacman,name:"fish",),
 (source:Cargo,name:"flamegraph",),
 (source:Pacman,name:"htop",),
