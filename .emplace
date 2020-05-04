@@ -7,6 +7,7 @@
 (source:Cargo,name:"cargo-watch",),
 (source:Cargo,name:"cross",),
 (source:Apt,name:"curl",),
+(source:Pacman,name:"dotnet-sdk",),
 (source:Cargo,name:"emplace",),
 (source:Pacman,name:"exa",),
 (source:Pacman,name:"fish",),
