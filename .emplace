@@ -14,6 +14,7 @@
 (source:Pacman,name:"htop",),
 (source:Pacman,name:"lsd",),
 (source:Cargo,name:"miniserve",),
+(source:Pacman,name:"nano",),
 (source:Pacman,name:"nano-syntax-highlighting",),
 (source:Pacman,name:"nebula",),
 (source:Pacman,name:"nmap",),
