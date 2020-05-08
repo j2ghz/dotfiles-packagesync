@@ -26,6 +26,7 @@
 (source:Pacman,name:"reflector",),
 (source:Pacman,name:"ripgrep",),
 (source:Pacman,name:"rustup",),
+(source:Pacman,name:"snap-sync",),
 (source:Pacman,name:"sniffglue",),
 (source:Rua,name:"teams",),
 (source:Pacman,name:"tldr",),
