@@ -1,5 +1,6 @@
 ([
 (source:Cargo,name:"amethyst_tools",),
+(source:Rua,name:"aspnet-runtime-preview",),
 (source:Pacman,name:"bandwhich",),
 (source:Pacman,name:"bat",),
 (source:Cargo,name:"cargo-deps",),
@@ -7,7 +8,10 @@
 (source:Cargo,name:"cargo-watch",),
 (source:Cargo,name:"cross",),
 (source:Apt,name:"curl",),
+(source:Rua,name:"dotnet-host-preview",),
+(source:Rua,name:"dotnet-runtime-preview",),
 (source:Pacman,name:"dotnet-sdk",),
+(source:Rua,name:"dotnet-sdk-preview",),
 (source:Cargo,name:"emplace",),
 (source:Pacman,name:"exa",),
 (source:Pacman,name:"fd",),
