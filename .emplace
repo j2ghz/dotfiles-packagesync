@@ -36,6 +36,7 @@
 (source:Rua(()),name:"teams",flags:[],),
 (source:Pacman(()),name:"tldr",flags:[],),
 (source:Pacman(()),name:"unzip",flags:[],),
+(source:Rua(()),name:"visual-studio-code-bin",flags:[],),
 (source:Apt(()),name:"wget",flags:[],),
 (source:Pacman(()),name:"wget",flags:[],),
 (source:Pacman(()),name:"zip",flags:[],),
