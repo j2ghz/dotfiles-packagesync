@@ -32,6 +32,7 @@
 (source:Pacman(()),name:"reflector",flags:[],),
 (source:Pacman(()),name:"ripgrep",flags:[],),
 (source:Pacman(()),name:"rustup",flags:[],),
+(source:Pacman(()),name:"shellcheck",flags:[],),
 (source:Pacman(()),name:"snap-sync",flags:[],),
 (source:Pacman(()),name:"sniffglue",flags:[],),
 (source:Rua(()),name:"teams",flags:[],),
