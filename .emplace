@@ -26,6 +26,7 @@
 (source:Pacman(()),name:"nebula",flags:[],),
 (source:Pacman(()),name:"nmap",flags:[],),
 (source:Pacman(()),name:"openssh",flags:[],),
+(source:Pacman(()),name:"pacman-contrib",flags:[],),
 (source:Pacman(()),name:"pkgfile",flags:[],),
 (source:Pacman(()),name:"python-pillow",flags:[],),
 (source:Pacman(()),name:"reflector",flags:[],),
