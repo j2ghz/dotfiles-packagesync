@@ -1,6 +1,7 @@
 ([
 (source:Cargo(()),name:"amethyst_tools",flags:[],),
 (source:Rua(()),name:"aspnet-runtime-preview",flags:[],),
+(source:Rua(()),name:"autotiling",flags:[],),
 (source:Pacman(()),name:"bandwhich",flags:[],),
 (source:Pacman(()),name:"bat",flags:[],),
 (source:Cargo(()),name:"cargo-deps",flags:[],),
