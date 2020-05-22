@@ -20,6 +20,7 @@
 (source:Pacman(()),name:"fish",flags:[],),
 (source:Cargo(()),name:"flamegraph",flags:[],),
 (source:Pacman(()),name:"htop",flags:[],),
+(source:Rua(()),name:"leftwm",flags:[],),
 (source:Pacman(()),name:"lsd",flags:[],),
 (source:Cargo(()),name:"miniserve",flags:[],),
 (source:Pacman(()),name:"nano",flags:[],),
