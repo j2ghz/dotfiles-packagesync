@@ -38,6 +38,7 @@
 (source:Pacman(()),name:"shellcheck",flags:[],),
 (source:Pacman(()),name:"snap-sync",flags:[],),
 (source:Pacman(()),name:"sniffglue",flags:[],),
+(source:Rua(()),name:"starship",flags:[],),
 (source:Rua(()),name:"teams",flags:[],),
 (source:Pacman(()),name:"tldr",flags:[],),
 (source:Pacman(()),name:"unzip",flags:[],),
